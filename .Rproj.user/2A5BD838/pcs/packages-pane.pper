@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "/Users/hhuang2 (Deleted)/Library/R/3.3/library"
+    }
+}
