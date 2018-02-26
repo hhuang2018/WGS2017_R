@@ -11,7 +11,7 @@ The final version of the scripts will be merged into one repository, and is set 
 
 
 # Authors
-*  **Hu Huang** (hhuang@iscb.org)
+*  **Hu Huang** 
 
 # License
 **Copyright (c) 2018 Hu Huang** - see the [LICENSE.md](https://github.com/hhuang2018/WGS2017_R/blob/master/LICENSE.md) file for details
