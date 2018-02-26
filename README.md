@@ -14,7 +14,7 @@ The final version of the scripts will be merged into one repository, and is set 
 *  **Hu Huang** (hhuang@iscb.org)
 
 # License
-Copyright **(2018)** **Hu Huang** - see the [LICENSE.md](https://github.com/hhuang2018/WGS2017_R/blob/master/LICENSE.md) file for details
+**Copyright (c) 2018 Hu Huang** - see the [LICENSE.md](https://github.com/hhuang2018/WGS2017_R/blob/master/LICENSE.md) file for details
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
