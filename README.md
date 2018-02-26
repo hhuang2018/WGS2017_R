@@ -10,7 +10,7 @@ This repository contains only "gene-gene interaction" project, and still under d
 The final version of the scripts will be merged into one repository, and is set to release by the end of 2018. 
 
 
-# Authors
+# Author(s)
 *  **Hu Huang** 
 
 # License
